@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"renderBarChartOn:" : "RichardPillar 12/17/2020 20:31",
+		"renderContentOn:" : "RichardPillar 12/16/2020 19:56"
+	},
+	"class" : {
+		"initialize" : "RichardPillar 12/16/2020 21:52",
+		"register" : "RichardPillar 12/16/2020 21:55",
+		"canBeRoot" : "RichardPillar 12/16/2020 22:01"
+	}
+}

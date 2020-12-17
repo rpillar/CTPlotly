@@ -1,0 +1,7 @@
+{
+	"instance" : { },
+	"class" : {
+		"ruleGRUsesCurlyBraceArraysRuleV1FalsePositive" : "RichardPillar 12/16/2020 22:31",
+		"ruleRBUtilityMethodsRuleV1FalsePositive" : "RichardPillar 12/16/2020 19:58"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RichardPillar 12/16/2020 19:49",
+	"super" : "WAComponent",
+	"category" : "CT-PlotlyExamples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTPlotlyDemo",
+	"type" : "normal"
+}
