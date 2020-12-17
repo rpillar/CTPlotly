@@ -9,6 +9,7 @@ renderBarChartOn: html
 	t1 line color: 'rgb(55, 128, 191)'; size: 10.
 	t1 x: #('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'July' 'Aug' 'Sept' 'Oct' 'Nov' 'Dec').
 	t1 y: #(8722 10013 11211 5231 8723 5456 8701 10692 10993 8022 6998 7691).
+	t1 marker size: 12.
 	
 	t2 type: 'bar'.
 	t2 x: #('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'July' 'Aug' 'Sept' 'Oct' 'Nov' 'Dec').
@@ -25,5 +26,5 @@ renderBarChartOn: html
 	
 	html div
 		id: 'myDiv';
-		style: 'height:470px;';
+		style: 'height:470px;width:1100px;';
 	 	script: chart.

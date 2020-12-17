@@ -1,4 +1,4 @@
 accessing
 marker
 
-	configurationOptions at: 'marker' ifAbsentPut: [ PlotlyTraceMarker new ].
+	^ configurationOptions at: 'marker' ifAbsentPut: [ PlotlyTraceMarker new ].
