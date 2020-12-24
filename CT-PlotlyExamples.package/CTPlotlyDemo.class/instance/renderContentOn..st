@@ -15,5 +15,9 @@ renderContentOn: html
 		].	
 		
 	self renderBarChartOn: html.
+
+	self renderStackedBarChartOn: html.
 	
+	self renderLineChartOn: html.
+		
 	self renderSunburstChartOn: html.

@@ -1,8 +1,10 @@
 {
 	"instance" : {
-		"renderSunburstChartOn:" : "RichardPillar 12/19/2020 21:02",
-		"renderBarChartOn:" : "RichardPillar 12/17/2020 22:37",
-		"renderContentOn:" : "RichardPillar 12/19/2020 20:40"
+		"renderStackedBarChartOn:" : "RichardPillar 12/23/2020 18:43",
+		"renderContentOn:" : "RichardPillar 12/23/2020 19:35",
+		"renderLineChartOn:" : "RichardPillar 12/24/2020 20:21",
+		"renderBarChartOn:" : "RichardPillar 12/23/2020 19:30",
+		"renderSunburstChartOn:" : "RichardPillar 12/24/2020 20:23"
 	},
 	"class" : {
 		"initialize" : "RichardPillar 12/16/2020 21:52",

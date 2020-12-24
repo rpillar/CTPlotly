@@ -2,6 +2,7 @@
 	"instance" : { },
 	"class" : {
 		"ruleRBUnaryAccessingMethodWithoutReturnRuleV1FalsePositive" : "RichardPillar 12/15/2020 22:33",
+		"ruleGRUndeclaredVariableRuleV1FalsePositive" : "RichardPillar 12/23/2020 18:52",
 		"ruleRBImplementedNotSentRuleV1FalsePositive" : "RichardPillar 12/19/2020 18:29"
 	}
 }
