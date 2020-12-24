@@ -19,6 +19,7 @@ renderStackedBarChartOn: html
 	layout title: 'A Stacked Bar Chart'.
 	
 	chart := PlotlyPlot new.
+	chart newplot.
 	chart complete: 'myStackedBarchartDiv' data: { t1 . t2 } layout: layout.
 	
 	html div

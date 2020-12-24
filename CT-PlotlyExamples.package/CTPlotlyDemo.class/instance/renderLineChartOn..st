@@ -58,6 +58,7 @@ renderLineChartOn: html
 	layout legend font size: 16.
 	 
 	chart := PlotlyPlot new.
+	chart newplot.
 	chart complete: 'myLineChartDiv' data: { t1 . t2 . t3 . t4 . t5 . t6 } layout: layout.
 	
 	html div

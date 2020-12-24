@@ -22,6 +22,7 @@ renderBarChartOn: html
 	config displayModeBar: false.
 	
 	chart := PlotlyPlot new.
+	chart newplot.
 	chart complete: 'myDiv' data: { t1 . t2 } layout: layout config: config.
 	
 	html div

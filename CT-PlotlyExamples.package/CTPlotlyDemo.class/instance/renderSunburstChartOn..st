@@ -18,6 +18,7 @@ renderSunburstChartOn: html
 	layout height: 500.
 	
 	chart := PlotlyPlot new.
+	chart newplot.
 	chart complete: 'mySunburstChart' data: { d1 } layout: layout.
 	
 	html div

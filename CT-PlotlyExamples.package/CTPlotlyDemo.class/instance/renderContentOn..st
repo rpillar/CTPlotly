@@ -21,3 +21,5 @@ renderContentOn: html
 	self renderLineChartOn: html.
 		
 	self renderSunburstChartOn: html.
+	
+	self renderSankeyDiagramOn: html.
