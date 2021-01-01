@@ -56,6 +56,7 @@ renderLineChartOn: html
 	layout title: 'A Sample Line Chart'.
 	layout legend y: 0.5; traceorder: 'reversed'; yref: 'paper'.
 	layout legend font size: 16.
+	layout xaxis showspikes: true; spikemode: 'across'; spikedash: 'dot'.
 	 
 	chart := PlotlyPlot new.
 	chart newplot.

@@ -1,7 +1,12 @@
 {
 	"instance" : {
-		"showgrid:" : "RichardPillar 12/16/2020 23:00",
-		"title:" : "RichardPillar 12/16/2020 22:59"
+		"showspikes:" : "RichardPillar 1/1/2021 13:10",
+		"title:" : "RichardPillar 12/16/2020 22:59",
+		"spikedash:" : "RichardPillar 1/1/2021 16:40",
+		"zeroline:" : "RichardPillar 12/26/2020 09:56",
+		"showline:" : "RichardPillar 12/26/2020 09:56",
+		"spikemode:" : "RichardPillar 1/1/2021 13:13",
+		"showgrid:" : "RichardPillar 12/16/2020 23:00"
 	},
 	"class" : { }
 }

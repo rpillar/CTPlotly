@@ -17,15 +17,17 @@ renderBarChartOn: html
 	
 	layout := PlotlyLayout new.
 	layout title: 'A Sample chart'.
-	
+	layout xaxis title: 'XAxis One'.
+	layout yaxis title: 'YAxis One'.
+		
 	config := PlotlyConfig new.
 	config displayModeBar: false.
 	
 	chart := PlotlyPlot new.
 	chart newplot.
-	chart complete: 'myDiv' data: { t1 . t2 } layout: layout config: config.
+	chart complete: 'myDiv End of statement list encountered ->' data: { t1 . t2 } layout: layout config: config.
 	
 	html div
-		id: 'myDiv';
+		id: 'myDiv End of statement list encountered ->';
 		style: 'height:470px;width:1100px;';
 	 	script: chart.
