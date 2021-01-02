@@ -10,6 +10,7 @@ renderBarChartOn: html
 	t1 x: #('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'July' 'Aug' 'Sept' 'Oct' 'Nov' 'Dec').
 	t1 y: #(8722 10013 11211 5231 8723 5456 8701 10692 10993 8022 6998 7691).
 	t1 marker size: 12.
+	t1 yaxis: 'y2'.
 	
 	t2 type: 'bar'.
 	t2 x: #('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'July' 'Aug' 'Sept' 'Oct' 'Nov' 'Dec').
@@ -17,17 +18,18 @@ renderBarChartOn: html
 	
 	layout := PlotlyLayout new.
 	layout title: 'A Sample chart'.
-	layout xaxis title: 'XAxis One'.
-	layout yaxis title: 'YAxis One'.
+	layout xaxis title: 'Months'.
+	layout yaxis title: 'Sales'.
+	layout yaxis2 title: 'Volume'; overlaying: 'y'; side: 'right'.
 		
 	config := PlotlyConfig new.
 	config displayModeBar: false.
 	
 	chart := PlotlyPlot new.
 	chart newplot.
-	chart complete: 'myDiv End of statement list encountered ->' data: { t1 . t2 } layout: layout config: config.
+	chart complete: 'myDiv' data: { t1 . t2 } layout: layout config: config.
 	
 	html div
-		id: 'myDiv End of statement list encountered ->';
+		id: 'myDiv';
 		style: 'height:470px;width:1100px;';
 	 	script: chart.

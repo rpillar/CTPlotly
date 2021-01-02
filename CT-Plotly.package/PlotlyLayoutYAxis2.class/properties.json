@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PlotlyComponent",
+	"category" : "CT-Plotly",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PlotlyLayoutYAxis2",
+	"type" : "normal"
+}

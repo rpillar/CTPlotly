@@ -1,14 +1,15 @@
 {
 	"instance" : {
-		"width:" : "RichardPillar 12/19/2020 19:09",
-		"title:" : "RichardPillar 12/15/2020 22:42",
-		"yaxis" : "RichardPillar 12/26/2020 09:51",
-		"legend" : "RichardPillar 12/23/2020 19:40",
-		"font" : "RichardPillar 12/24/2020 22:29",
 		"barmode:" : "RichardPillar 12/15/2020 22:57",
-		"height:" : "RichardPillar 12/19/2020 19:08",
 		"margin" : "RichardPillar 12/19/2020 18:38",
-		"xaxis" : "RichardPillar 12/26/2020 09:39"
+		"font" : "RichardPillar 12/24/2020 22:29",
+		"title:" : "RichardPillar 12/15/2020 22:42",
+		"yaxis2" : "RichardPillar 1/1/2021 22:40",
+		"width:" : "RichardPillar 12/19/2020 19:09",
+		"height:" : "RichardPillar 12/19/2020 19:08",
+		"xaxis" : "RichardPillar 12/26/2020 09:39",
+		"yaxis" : "RichardPillar 12/26/2020 09:51",
+		"legend" : "RichardPillar 12/23/2020 19:40"
 	},
 	"class" : { }
 }
