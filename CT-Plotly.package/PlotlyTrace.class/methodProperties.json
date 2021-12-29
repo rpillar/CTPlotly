@@ -1,14 +1,16 @@
 {
 	"instance" : {
 		"y:" : "RichardPillar 12/4/2020 19:17",
-		"mode:" : "RichardPillar 12/17/2020 22:40",
-		"yaxis:" : "RichardPillar 1/1/2021 22:38",
 		"line" : "RichardPillar 12/17/2020 18:25",
-		"type:" : "RichardPillar 12/4/2020 19:18",
 		"marker" : "RichardPillar 12/17/2020 22:39",
-		"text:" : "RichardPillar 12/23/2020 17:57",
 		"x:" : "RichardPillar 12/4/2020 19:16",
-		"name:" : "RichardPillar 12/17/2020 22:40"
+		"text:" : "RichardPillar 12/23/2020 17:57",
+		"mode:" : "RichardPillar 12/17/2020 22:40",
+		"histnorm:" : "RichardPillar 12/2/2021 21:32",
+		"name:" : "RichardPillar 12/17/2020 22:40",
+		"opacity:" : "RichardPillar 12/2/2021 18:52",
+		"yaxis:" : "RichardPillar 1/1/2021 22:38",
+		"type:" : "RichardPillar 12/4/2020 19:18"
 	},
 	"class" : { }
 }

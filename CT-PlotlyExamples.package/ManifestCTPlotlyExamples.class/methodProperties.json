@@ -1,12 +1,14 @@
 {
 	"instance" : { },
 	"class" : {
+		"ruleUtilityMethodsRuleV1FalsePositive" : "RichardPillar 12/19/2021 18:28",
 		"ruleGRUsesCurlyBraceArraysRuleV1FalsePositive" : "RichardPillar 1/1/2021 21:10",
 		"ruleRBSelfSentNotImplementedRuleV1FalsePositive" : "RichardPillar 12/19/2020 20:40",
 		"ruleRBImplementedNotSentRuleV1FalsePositive" : "RichardPillar 1/1/2021 21:10",
 		"ruleRBLongMethodsRuleV1FalsePositive" : "RichardPillar 12/26/2020 09:51",
 		"ruleRBClassNotReferencedRuleV1FalsePositive" : "RichardPillar 12/19/2020 21:04",
-		"ruleRBUtilityMethodsRuleV1FalsePositive" : "RichardPillar 1/1/2021 21:10",
-		"ruleRBSentNotImplementedRuleV1FalsePositive" : "RichardPillar 12/19/2020 20:40"
+		"ruleLongMethodsRuleV1FalsePositive" : "RichardPillar 12/19/2021 18:28",
+		"ruleRBSentNotImplementedRuleV1FalsePositive" : "RichardPillar 12/19/2020 20:40",
+		"ruleRBUtilityMethodsRuleV1FalsePositive" : "RichardPillar 1/1/2021 21:10"
 	}
 }
