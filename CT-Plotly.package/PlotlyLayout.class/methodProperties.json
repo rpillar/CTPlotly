@@ -1,16 +1,19 @@
 {
 	"instance" : {
+		"plot_bgcolor:" : "RichardPillar 2/6/2022 20:15",
 		"barmode:" : "RichardPillar 12/15/2020 22:57",
 		"margin" : "RichardPillar 12/19/2020 18:38",
+		"title" : "RichardPillar 2/7/2022 19:24",
+		"paper_bgcolor:" : "RichardPillar 2/6/2022 19:57",
 		"font" : "RichardPillar 12/24/2020 22:29",
 		"title:" : "RichardPillar 12/15/2020 22:42",
 		"bargap:" : "RichardPillar 12/2/2021 18:57",
-		"width:" : "RichardPillar 12/19/2020 19:09",
 		"height:" : "RichardPillar 12/19/2020 19:08",
+		"width:" : "RichardPillar 12/19/2020 19:09",
 		"yaxis2" : "RichardPillar 1/1/2021 22:40",
 		"xaxis" : "RichardPillar 12/26/2020 09:39",
-		"yaxis" : "RichardPillar 12/26/2020 09:51",
-		"legend" : "RichardPillar 12/23/2020 19:40"
+		"legend" : "RichardPillar 12/23/2020 19:40",
+		"yaxis" : "RichardPillar 12/26/2020 09:51"
 	},
 	"class" : { }
 }
