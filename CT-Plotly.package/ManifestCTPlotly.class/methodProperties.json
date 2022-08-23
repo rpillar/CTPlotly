@@ -5,7 +5,7 @@
 		"ruleGRUndeclaredVariableRuleV1FalsePositive" : "RichardPillar 12/23/2020 18:52",
 		"ruleRBUnclassifiedMethodsRuleV1FalsePositive" : "RichardPillar 12/24/2020 21:51",
 		"ruleRBUnaryAccessingMethodWithoutReturnRuleV1FalsePositive" : "RichardPillar 12/15/2020 22:33",
-		"ruleUtilityMethodsRuleV1FalsePositive" : "RichardPillar 2/9/2022 22:44",
+		"ruleUtilityMethodsRuleV1FalsePositive" : "RichardPillar 8/23/2022 20:05",
 		"ruleRBNoClassCommentRuleV1FalsePositive" : "RichardPillar 12/26/2020 09:55"
 	}
 }
