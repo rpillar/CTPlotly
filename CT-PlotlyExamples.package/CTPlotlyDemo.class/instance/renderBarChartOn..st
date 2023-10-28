@@ -27,9 +27,9 @@ renderBarChartOn: html
 	
 	chart := PlotlyPlot new.
 	chart newplot.
-	chart complete: 'myDiv' data: { t1 . t2 } layout: layout config: config.
+	chart complete: 'myBarChartDiv' data: { t1 . t2 } layout: layout config: config.
 	
 	html div
-		id: 'myDiv';
+		id: 'myBarChartDiv';
 		style: 'height:470px;width:1100px;';
 	 	script: chart.

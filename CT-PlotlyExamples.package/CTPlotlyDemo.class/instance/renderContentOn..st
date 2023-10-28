@@ -27,3 +27,5 @@ renderContentOn: html
 	self renderSankeyDiagramOn: html.
 	
 	self renderHistogramChartOn: html.
+	
+	self renderScatterChartOn: html.

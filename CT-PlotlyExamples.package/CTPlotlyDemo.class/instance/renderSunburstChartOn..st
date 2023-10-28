@@ -19,9 +19,9 @@ renderSunburstChartOn: html
 	
 	chart := PlotlyPlot new.
 	chart newplot.
-	chart complete: 'mySunburstChart' data: { d1 } layout: layout.
+	chart complete: 'mySunburstChartDiv' data: { d1 } layout: layout.
 	
 	html div
-		id: 'mySunburstChart';
+		id: 'mySunburstChartDiv';
 		style: 'height:600px;width:600px;';
 	 	script: chart.

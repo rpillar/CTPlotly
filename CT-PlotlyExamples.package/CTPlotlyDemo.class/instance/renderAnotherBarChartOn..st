@@ -18,9 +18,9 @@ renderAnotherBarChartOn: html
 	
 	chart := PlotlyPlot new.
 	chart newplot.
-	chart complete: 'myFeedbackChart' data: { t1 } layout: layout config: config.		
+	chart complete: 'myAnotherBarChartDiv' data: { t1 } layout: layout config: config.		
 		
 	html div
-		id: 'myFeedbackChart';
+		id: 'myAnotherBarChartDiv';
 		style: 'height:150px;';
 	 	script: chart.
