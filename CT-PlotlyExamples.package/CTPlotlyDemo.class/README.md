@@ -1,1 +1,0 @@
-Examples of Seaside components using the CT-Plotly classes.
